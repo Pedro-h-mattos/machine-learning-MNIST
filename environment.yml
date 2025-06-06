@@ -1,0 +1,12 @@
+name: machine-learning
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.12.*
+  - numpy
+  - matplotlib
+  - pip
+  - scikit-learn
+  - jupyter
+  - spyder-kernels
